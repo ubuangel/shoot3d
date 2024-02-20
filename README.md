@@ -83,7 +83,7 @@
 
 [![Product Name Screen Shot][product-screenshot]]
 
-Unity Shoter Game 3d simple 
+Simple Unity Shoter Game 3d 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -109,7 +109,7 @@ Este es un proyecto introductorio para IHC
 ### Prerequisites
 
 
-* Unity
+* Unity 2022.3.7f1
 * Vscode
 
 ### Installation
@@ -139,13 +139,13 @@ Este es un proyecto introductorio para IHC
 
 - [x] Add Changelog
 - [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
+- [x] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +159,7 @@ Las contribuciones son las que hacen de la comunidad de código abierto un lugar
 Si tiene alguna sugerencia que pueda mejorar esto, bifurque el repositorio y cree una solicitud de extracción. También puedes simplemente abrir un problema con la etiqueta "mejora".
 ¡No olvides darle una estrella al proyecto! ¡Gracias de nuevo!
 
-1. Fork the Project
+1. Forkea
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
@@ -192,16 +192,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Credito al canal 
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
