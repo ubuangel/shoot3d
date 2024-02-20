@@ -51,10 +51,10 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-Simple Unity Shoter Game 3d 
+Simple Unity Shooter Game 3d 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
@@ -65,7 +65,7 @@ Simple Unity Shoter Game 3d
 * [![Unity]][Unity-url]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
@@ -93,7 +93,7 @@ Este es un proyecto introductorio para IHC
 2. Abrelo con Unity 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
@@ -115,7 +115,7 @@ Este es un proyecto introductorio para IHC
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
@@ -124,7 +124,7 @@ Este es un proyecto introductorio para IHC
 
 Las contribuciones son las que hacen de la comunidad de código abierto un lugar increíble para aprender, inspirar y crear. Cualquier contribución que hagas será **muy apreciada**.
 
-Si tiene alguna sugerencia que pueda mejorar esto, bifurque el repositorio y cree una solicitud de extracción. También puedes simplemente abrir un problema con la etiqueta "mejora".
+Si tiene alguna sugerencia que pueda mejorar esto, bifurque el repositorio y cree una solicitud de extracción Pull Request. También puedes simplemente abrir un problema con la etiqueta "mejora "(enhancement).
 ¡No olvides darle una estrella al proyecto! ¡Gracias de nuevo!
 
 1. Forkea
@@ -133,7 +133,7 @@ Si tiene alguna sugerencia que pueda mejorar esto, bifurque el repositorio y cre
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
@@ -142,7 +142,7 @@ Si tiene alguna sugerencia que pueda mejorar esto, bifurque el repositorio y cre
 
 Distribuido bajo la licencia MIT. `LICENSE.txt` para mas informacion.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
@@ -153,7 +153,7 @@ Angel Bejar - abebe202023@gmail.com
 
 Link del Proyecto: [https://github.com/ubuangel/shoot3d](https://github.com/ubuangel/shoot3d)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
@@ -165,7 +165,7 @@ Credito al canal
 * [Youtube](https://www.youtube.com/@InformatikaEHU)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
 
