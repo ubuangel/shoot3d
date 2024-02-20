@@ -96,14 +96,8 @@ Unity Shoter Game Colisiones
 
  
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* ![Next][Unity][Unity-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,8 +106,7 @@ Unity Shoter Game Colisiones
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Este es un proyecto introductorio para IHC
 
 ### Prerequisites
 
