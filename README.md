@@ -183,7 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Angel Bejar - abebe202023@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/ubuangel/shoot3d](https://github.com/ubuangel/shoot3d)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
