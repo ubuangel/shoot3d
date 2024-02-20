@@ -81,7 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre este Proyecto
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 Simple Unity Shoter Game 3d 
 
@@ -194,7 +194,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 Credito al canal 
 
-* [Choose an Open Source License](https://choosealicense.com)
+* [Choose an Open Source License](https://www.youtube.com/@InformatikaEHU)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
