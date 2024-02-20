@@ -175,14 +175,14 @@ Credito al canal
 [contributors-url]: https://github.com/ubuangel/shoot3d/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/ubuangel/shooter3d.svg?style=for-the-badge
 [forks-url]: https://github.com/ubuangel/shoot3d/network/members
-[stars-shield]: https://img.shields.io/github/stars/ubuangel/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/ubuangel/shooter3d.svg?style=for-the-badge
 [stars-url]: https://github.com/ubuangel/shoot3d/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ubuangel/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/ubuangel/shooter3d.svg?style=for-the-badge
 [issues-url]: https://github.com/ubuangel/shoot3d/issues
-[license-shield]: https://img.shields.io/github/license/ubuangel/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/ubuangel/shooter3d.svg?style=for-the-badge
 [license-url]: https://github.com/ubuangel/shoot3d/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/ubuangel
 [product-screenshot]: images/proyecto1.png
 [Unity]: https://img.shields.io/badge/UNITY
 
