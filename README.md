@@ -172,7 +172,7 @@ Si tiene alguna sugerencia que pueda mejorar esto, bifurque el repositorio y cre
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distribuido bajo la licencia MIT. `LICENSE.txt` para mas informacion.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -194,7 +194,7 @@ Link del Proyecto: [https://github.com/ubuangel/shoot3d](https://github.com/ubua
 
 Credito al canal 
 
-* [Choose an Open Source License](https://www.youtube.com/@InformatikaEHU)
+* [Youtube](https://www.youtube.com/@InformatikaEHU)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
