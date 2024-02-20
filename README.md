@@ -94,7 +94,7 @@ Simple Unity Shoter Game 3d
 
  
 
-* [![Next][Unity]][Unity-url]
+* [![Unity]][Unity-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
