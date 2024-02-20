@@ -173,7 +173,7 @@ Credito al canal
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ubuangel/shoot3d.svg?style=for-the-badge
 [contributors-url]: https://github.com/ubuangel/shoot3d/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ubuangel/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/ubuangel/shooter3d.svg?style=for-the-badge
 [forks-url]: https://github.com/ubuangel/shoot3d/network/members
 [stars-shield]: https://img.shields.io/github/stars/ubuangel/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/ubuangel/shoot3d/stargazers
