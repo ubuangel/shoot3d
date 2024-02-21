@@ -154,6 +154,8 @@ Para poner en funcionamiento una copia local, siga estos sencillos pasos de ejem
 Las capturas de pantalla, ejemplos de código y demostraciones adicionales funcionan bien en este espacio.  
 _Para mas ejemplos, consulte la  [Documentation](https://example.com)_
 
+![imagen1][imagen1]
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -241,6 +243,7 @@ Credito al canal
 [product-screenshot]: images/proyecto1.png
 [Unity]: https://img.shields.io/badge/UNITY
 
+[imagen1]: images/pantallaso.png
 [Unity-url]: https://unity.com/es
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
