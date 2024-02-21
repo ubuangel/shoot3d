@@ -94,6 +94,7 @@
 Simple Unity Shooter Game 3d 
 
 * Este es un proyecto introductorio para el curso IHC 
+
 Cree un  `BLANK_README.md`para empezar pero esta vacio.
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
