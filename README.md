@@ -155,7 +155,7 @@ Para poner en funcionamiento una copia local, siga estos sencillos pasos de ejem
 Las capturas de pantalla, ejemplos de código y demostraciones adicionales funcionan bien en este espacio.  
 _Para mas ejemplos, consulte la  [Documentation](https://example.com)_
 
-![Descripción de la imagen](/images/pictureproyecto2.png)
+![Descripción de la imagen](/images/proyecto2.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
