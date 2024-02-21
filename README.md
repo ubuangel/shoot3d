@@ -120,7 +120,7 @@ Este es un proyecto introductorio para IHC
 * Unity 2022.3.7f1
 * Vscode
 
-### Installation
+### Instalacion
 
 
 
