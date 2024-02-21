@@ -61,9 +61,9 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li>
-      <a href="#Sobre-este-Proyecto">About The Project</a>
+      <a href="#Sobre-este-Proyecto">Sobre Este Proyecto</a>
       <ul>
-        <li><a href="#construido--con">Built With</a></li>
+        <li><a href="#construido--con">Construido Con</a></li>
       </ul>
     </li>
     <li>
@@ -73,12 +73,12 @@
         <li><a href="#instalacion">Instalacion</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contributing">Contribuciones</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contacto">Contacto</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#acknowledgments">Agradecimientos</a></li>
   </ol>
 </details>
 
