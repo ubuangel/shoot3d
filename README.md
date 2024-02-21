@@ -69,11 +69,11 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisitos</a></li>
+        <li><a href="#prerequisitos">Prerequisitos</a></li>
         <li><a href="#instalacion">Instalacion</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Uso</a></li>
+    <li><a href="#uso">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contribuciones</a></li>
     <li><a href="#license">License</a></li>
