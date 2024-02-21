@@ -70,7 +70,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisitos</a></li>
-        <li><a href="#installation">Instalacion</a></li>
+        <li><a href="#instalacion">Instalacion</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
