@@ -93,7 +93,8 @@
 
 Simple Unity Shooter Game 3d 
 
-
+* Este es un proyecto introductorio para el curso IHC 
+Cree un  `BLANK_README.md`para empezar pero esta vacio.
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 
@@ -103,6 +104,7 @@ Simple Unity Shooter Game 3d
  
 
 * [![Unity]][Unity-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
@@ -112,13 +114,20 @@ Simple Unity Shooter Game 3d
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Este es un proyecto introductorio para IHC
 
-### Prerequisites
+Para poner en funcionamiento una copia local, siga estos sencillos pasos de ejemplo.
+
+### Prerequisitos
 
 
 * Unity 2022.3.7f1
-* Vscode
+
+
+* Debian GNU/Linux 12 (bookworm)
+```sh
+  sudo apt-get update && sudo apt-get upgrade
+  ```
+
 
 ### Instalacion
 
@@ -139,7 +148,12 @@ Este es un proyecto introductorio para IHC
 
 <!-- USAGE EXAMPLES -->
 
+## Uso
 
+Las capturas de pantalla, ejemplos de código y demostraciones adicionales funcionan bien en este espacio.  
+_Para mas ejemplos, consulte la  [Documentation](https://example.com)_
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ROADMAP -->
@@ -153,7 +167,7 @@ Este es un proyecto introductorio para IHC
     - [ ] Chinese
     - [ ] Spanish
 
-
+Consulte los [problemas abiertos] (https://github.com/ubuangel/shoot3d/issues) para obtener una lista completa de las funciones,caracteristicas propuestas (y problemas conocidos).
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
