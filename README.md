@@ -155,7 +155,7 @@ Para poner en funcionamiento una copia local, siga estos sencillos pasos de ejem
 Las capturas de pantalla, ejemplos de código y demostraciones adicionales funcionan bien en este espacio.  
 _Para mas ejemplos, consulte la  [Documentation](https://example.com)_
 
-![Descripción de la imagen](/images/proyecto2.png)
+![Descripción de la imagen Markdown](/images/proyecto2.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -240,7 +240,7 @@ Credito al canal
 [license-shield]: https://img.shields.io/github/license/ubuangel/shoot3d.svg?style=for-the-badge
 [license-url]: https://github.com/ubuangel/shoot3d/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/ubuangel
+[linkedin-url]: https://linkedin.com/in/angel-andres-bejar-merma-5baaba281
 [product-screenshot]: images/proyecto1.png
 [Unity]: https://img.shields.io/badge/UNITY
 
